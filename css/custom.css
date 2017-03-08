@@ -1,11 +1,22 @@
+/* Set styling of global elements */
+
 body,
 html {
     width: 100%;
     height: 100%;
 }
 
+/* TO COMPLETE */
 
 
-body {
+/* Set custom font for body and headers from google fonts */
+/* ADD FONT WEIGHT IN? */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
