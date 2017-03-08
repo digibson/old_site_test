@@ -20,3 +20,21 @@ h5,
 h6 {
     font-family: 'Open Sans',Helvetica,Arial,sans-serif;
 }
+
+.text-vertical-middle {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.text-vertical-middle h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 4.5em;
+    font-weight: 700;
+}
+
+.text-vertical-middle h1, h3 {
+    color: #fff;
+}
+
