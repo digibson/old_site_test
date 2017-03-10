@@ -21,6 +21,7 @@ h6 {
     font-family: 'Open Sans',Helvetica,Arial,sans-serif;
 }
 
+/* CONTAINER MODIFICATIONS */
 .text-vertical-middle {
     display: table-cell;
     text-align: center;
@@ -36,6 +37,24 @@ h6 {
 
 .text-vertical-middle h1, h3 {
     color: #fff;
+}
+
+/* CUSTOM COLOUR SCHEME*/
+.bg-custom-red {
+  color: #fff;
+  background-color: #c90000;
+}
+a.bg-custom-red:hover,
+a.bg-custom-red:focus {
+  background-color: #286090; /* TO ADAPT THIS COLOR */
+}
+
+.text-custom-red {
+  color: #c90000;
+}
+a.text-custom-red:hover,
+a.text-custom-red:focus {
+  color: #286090;/* TO ADAPT THIS COLOR */
 }
 
 /* Landing page header button classes */
