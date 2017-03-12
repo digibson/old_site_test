@@ -46,7 +46,7 @@ h6 {
 }
 a.bg-custom-red:hover,
 a.bg-custom-red:focus {
-  background-color: #286090; /* TO ADAPT THIS COLOR */
+  background-color: #fff; /* TO ADAPT THIS COLOR */
 }
 
 .text-custom-red {
@@ -54,7 +54,7 @@ a.bg-custom-red:focus {
 }
 a.text-custom-red:hover,
 a.text-custom-red:focus {
-  color: #fff;/* TO ADAPT THIS COLOR */
+  color: #d90000;/* TO ADAPT THIS COLOR */
 }
 
 /* Landing page header button classes */
