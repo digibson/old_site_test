@@ -52,10 +52,6 @@ a.bg-custom-red:focus {
 .text-custom-red {
   color: #c90000;
 }
-a.text-custom-red:hover,
-a.text-custom-red:focus {
-  color: #000000;/* TO ADAPT THIS COLOR */
-}
 
 a.text-icon-button {
   color: #fff;
