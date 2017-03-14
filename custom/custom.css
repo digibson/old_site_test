@@ -54,16 +54,16 @@ a.bg-custom-red:focus {
 }
 a.text-custom-red:hover,
 a.text-custom-red:focus {
-  color: #d90000;/* TO ADAPT THIS COLOR */
+  color: #000000;/* TO ADAPT THIS COLOR */
 }
 
-.text-icon-button {
+a.text-icon-button {
   color: #fff;
 }
 
-.text-icon-button:hover,
-.text-icon-button:focus,
-.text-icon-button:active {
+a.text-icon-button:hover,
+a.text-icon-button:focus,
+a.text-icon-button:active {
   color: #c0c0c0;/* TO ADAPT THIS COLOR */
 }
 
