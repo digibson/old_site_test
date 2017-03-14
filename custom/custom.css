@@ -65,6 +65,12 @@ a.text-icon-button:focus {
   color: #c0c0c0;/* TO ADAPT THIS COLOR */
 }
 
+.text-icon-button:hover,
+.text-icon-button:focus {
+  color: #c0c0c0;/* TO ADAPT THIS COLOR */
+}
+
+
 /* Landing page header button classes */
 .btn-header {
     border-radius: 6;
