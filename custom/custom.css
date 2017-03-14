@@ -60,13 +60,10 @@ a.text-custom-red:focus {
 .text-icon-button {
   color: #fff;
 }
-a.text-icon-button:hover,
-a.text-icon-button:focus {
-  color: #c0c0c0;/* TO ADAPT THIS COLOR */
-}
 
 .text-icon-button:hover,
-.text-icon-button:focus {
+.text-icon-button:focus,
+.text-icon-button:active {
   color: #c0c0c0;/* TO ADAPT THIS COLOR */
 }
 
