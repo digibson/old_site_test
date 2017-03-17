@@ -63,6 +63,16 @@ a.text-icon-button:active {
   color: #c0c0c0;/* TO ADAPT THIS COLOR */
 }
 
+a.trans-icon-button {
+  color: rgba(255,255,255,0.4);
+}
+
+a.trans-icon-button:hover,
+a.trans-icon-button:focus,
+a.trans-icon-button:active {
+  color: rgba(255,255,255,0.8);/* TO ADAPT THIS COLOR */
+}
+
 
 /* Landing page header button classes */
 .btn-header {
