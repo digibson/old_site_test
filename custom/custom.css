@@ -74,13 +74,7 @@ a.trans-icon-button:active {
 }
 
 .trans-icon-text {
-  color: rgba(0,0,0,0.4);
-}
-
-.trans-icon-text:hover,
-.trans-icon-text:focus,
-.trans-icon-text:active {
-  color: rgba(0,0,0,0.8);/* TO ADAPT THIS COLOR */
+  color: rgba(0,0,0,0.7);
 }
 
 
