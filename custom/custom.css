@@ -65,6 +65,7 @@ a.text-icon-button:active {
 
 a.trans-icon-button {
   color: rgba(255,255,255,0.4);
+  text-align: center;
 }
 
 a.trans-icon-button:hover,
