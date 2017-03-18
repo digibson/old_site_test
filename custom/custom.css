@@ -53,6 +53,11 @@ a.bg-custom-red:focus {
   color: #c90000;
 }
 
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
 a.text-icon-button {
   color: #fff;
 }
