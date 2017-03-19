@@ -108,19 +108,10 @@ a.trans-icon-button:active {
 
 
 
-.col-xs-4 > .icons-right {
+.no-pad {
     padding-left: 0px;
     padding-right: 0px;
-    text-align: right;
 }
-
-.col-xs-4 > .icons-left {
-    padding-left: 0px;
-    padding-right: 0px;
-    text-align: left;
-}
-    
-
 
 /* Landing page header button classes */
 .btn-header {
