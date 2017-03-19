@@ -92,6 +92,22 @@ a.trans-icon-button:active {
   color: rgba(0,0,0,0.7);
 }
 
+
+@media (max-width: 767px) {
+  // Align text for xs screens only.
+  .text-xs-center {
+    text-align: center;
+  } 
+  .text-xs-right {
+    text-align: right;
+  } 
+  .text-xs-left {
+    text-align: left;
+  } 
+}
+
+
+
 .col-xs-4 > .icons-right {
     padding-left: 0px;
     padding-right: 0px;
