@@ -79,13 +79,13 @@ a.text-icon-button:active {
 }
 
 a.trans-icon-button {
-  color: rgba(255,255,255,0.4);
+  color: rgba(255,255,255,0.7);
 }
 
 a.trans-icon-button:hover,
 a.trans-icon-button:focus,
 a.trans-icon-button:active {
-  color: rgba(255,255,255,0.8);/* TO ADAPT THIS COLOR */
+  color: rgba(255,255,255,0.9);/* TO ADAPT THIS COLOR */
 }
 
 .trans-icon-text {
