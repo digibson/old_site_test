@@ -92,9 +92,11 @@ a.trans-icon-button:active {
   color: rgba(0,0,0,0.7);
 }
 
-.icon-right > [class*="col-xs"] {
+.icon-right {
+    [class*="col-xs"] {
     padding: 0px;
     text-align: right;
+    }
 }
 
 .icon-center > [class*="col-xs"] {
