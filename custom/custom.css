@@ -53,21 +53,6 @@ a.bg-custom-red:focus {
   color: #c90000;
 }
 
-
-
-.row-no-padding {
-  margin-left: 0;
-  margin-right: 0;
-}
-
-.row-no-padding > [class*="col-"] {/* Elements whose class attribute begins with "col-" */
-
-  padding-left: 0;
-  padding-right: 0;
-}
-
-
-
 a.text-icon-button {
   color: #fff;
 }
