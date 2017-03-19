@@ -92,8 +92,19 @@ a.trans-icon-button:active {
   color: rgba(0,0,0,0.7);
 }
 
-.icon-align {
+.icon-right {
     padding: 0px;
+    text-align: right;
+}
+
+.icon-center {
+    padding: 0px;
+    text-align: center;
+}
+
+.icon-left {
+    padding: 0px;
+    text-align: left;
 }
 
 
