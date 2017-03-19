@@ -92,23 +92,10 @@ a.trans-icon-button:active {
   color: rgba(0,0,0,0.7);
 }
 
-.icon-right {
-    [class*="col-xs"] {
-    padding: 0px;
-    text-align: right;
-    }
+.icon-spacing {
+    padding-left: 0px;
+    padding-right: 0px;
 }
-
-.icon-center > [class*="col-xs"] {
-    padding: 0px;
-    text-align: center;
-}
-
-.icon-left > [class*="col-xs"] {
-    padding: 0px;
-    text-align: left;
-}
-
 
 /* Landing page header button classes */
 .btn-header {
