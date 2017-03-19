@@ -92,6 +92,10 @@ a.trans-icon-button:active {
   color: rgba(0,0,0,0.7);
 }
 
+.icon-align {
+    padding: 0px;
+}
+
 
 /* Landing page header button classes */
 .btn-header {
