@@ -92,16 +92,16 @@ a.trans-icon-button:active {
   color: rgba(0,0,0,0.7);
 }
 
-.col-xs-4 .icons-right {
+.col-xs-4 > .icons-right {
     padding-left: 0px;
     padding-right: 0px;
     text-align: right;
 }
 
-.col-xs-4 .icons-left {
+.col-xs-4 > .icons-left {
     padding-left: 0px;
     padding-right: 0px;
-    text-align: right;
+    text-align: left;
 }
     
 
