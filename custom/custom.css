@@ -92,7 +92,7 @@ a.trans-icon-button:active {
   color: rgba(0,0,0,0.7);
 }
 
-.icon-spacing {
+.icons-no-padding > [class^="col-xs"] {
     padding-left: 0px;
     padding-right: 0px;
 }
