@@ -28,9 +28,6 @@ h6 {
 
 .blog-title {
     font-size: 24px;
-    padding-top: 0px;
-    padding-bottom: 0px;
-    margin-bottom: 0px;
 }
 
 .blog-side-title {
@@ -44,6 +41,7 @@ h6 {
 }
 
 .blog-para {
+    font-size: 12px;
     text-align: justify;
     text-justify: inter-word;
 }
