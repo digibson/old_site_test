@@ -13,6 +13,7 @@ html {
 /* ADD FONT WEIGHT IN? */
 body {
     font-family: 'Open Sans Condensed',Helvetica,Arial,sans-serif;
+    font-weight: 400;
 }
 
 h1,
@@ -25,16 +26,20 @@ h6 {
     font-weight: 700;
 }
 
-h1 {
+.blog-title {
     font-size: 24px;
 }
 
-h2 {
+.blog-side-title {
     font-size: 18px;
 }
 
-p {
-    font-weight: 400;
+.blog-date {
+    font-size: 14px;
+    color: #27a0f7;
+}
+
+.blog-para {
     text-align: justify;
     text-justify: inter-word;
 }
