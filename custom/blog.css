@@ -14,7 +14,7 @@ html {
 body {
     font-family: 'Monserrat',Helvetica,Arial,sans-serif;
     font-weight: 400;
-    color: 545454;
+    color: #545454;
 }
 
 h1,
@@ -40,14 +40,14 @@ h6 {
 .blog-date {
     font-family: 'Monserrat',Helvetica,Arial,sans-serif;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 400;
     color: #27a0f7;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 .blog-para {
-    font-size: 14px;
+    font-size: 12px;
     text-align: justify;
     text-justify: inter-word;
 }
