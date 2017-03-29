@@ -12,8 +12,9 @@ html {
 /* Set custom font for body and headers from google fonts */
 /* ADD FONT WEIGHT IN? */
 body {
-    font-family: 'Open Sans Condensed',Helvetica,Arial,sans-serif;
+    font-family: 'Monserrat',Helvetica,Arial,sans-serif;
     font-weight: 400;
+    color: 545454;
 }
 
 h1,
@@ -37,7 +38,7 @@ h6 {
 }
 
 .blog-date {
-    font-family: 'Roboto',Helvetica,Arial,sans-serif;
+    font-family: 'Monserrat',Helvetica,Arial,sans-serif;
     font-size: 14px;
     font-weight: 700;
     color: #27a0f7;
