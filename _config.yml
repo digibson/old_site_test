@@ -1,0 +1,18 @@
+title: Jekyll website
+email: your-email@domain.com
+description: > # ignore lines until baseurl
+  Description of site here.
+  This goes in document meta
+baseurl: "" # sub pasth of website
+url: "" # base hostname and protcol e.g. http:/www.google.com
+
+#Build settings
+markdown: kramdown
+gems: #
+exclude: 
+  - Gemfile
+  - Gemfile.lock
+  
+sass:
+    sass_dir: _sass
+    style: compressed
