@@ -8,6 +8,9 @@
 $icon-font-path:      "../fonts/bootstrap";
 $fa-font-path:        "../fonts/font-awesome";
 
+// Override standard variables
+$font-size-base:          13px !default;
+
 // Import partials from `sass_dir` (default set to `_sass` in _config.yml)
 @import "bootstrap/bootstrap";
 @import "font-awesome/font-awesome";
