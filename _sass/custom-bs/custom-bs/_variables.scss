@@ -1,0 +1,13 @@
+//
+// Variables
+// --------------------------------------------------
+
+
+// Posts - Define tag button variables
+$brand-tags:          #008ba0 !default; // enter colour
+$btn-tags-color-base: #ededed !default;
+$btn-tags-color:      #ffffff !default;
+$btn-tags-bg:         $brand-tags !default;
+$btn-tags-border:     darken($btn-tags-bg, 5%) !default;
+
+
