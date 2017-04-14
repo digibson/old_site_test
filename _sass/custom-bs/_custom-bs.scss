@@ -12,5 +12,6 @@
 @import "custom-bs/custom-post";
 
 // Change fa font color - note could just do this with another color class elsewhere
-.#{$fa-css-prefix} {  color: $fa-font-color;
+.#{$fa-css-prefix} {  
+  color: $fa-font-color;
 }
