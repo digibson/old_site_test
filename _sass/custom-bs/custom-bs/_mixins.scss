@@ -3,6 +3,15 @@
 // Easily pump out default styles, as well as :hover, :focus, :active,
 // and disabled options for all buttons
 
+
+// Font awesome definition change default color
+@mixin fa-custom-color($color, $fa-prefix) {
+  @extend .#{$fa-prefix};
+  color: $color;
+}
+
+
+
 @mixin button-variant-custom($color-base, $color, $background, $border) {
   color: $color-base;
   background-color: $background;

@@ -6,4 +6,8 @@
   @include button-variant-custom($btn-tags-color-base, $btn-tags-color, $btn-tags-bg, $btn-tags-border);
 }
 
+// Font awesome definition change default color
+.fa-p {
+  @include fa-custom-color($fa-custom-color, $fa-css-prefix);
+}
 
