@@ -1,5 +1,8 @@
 // Custom scss classes for post section of website
 
+// Change fa font color
+.#{$fa-css-prefix} {  color: $fa-font-color;
+}
 
 // Buttons used to display tags
 .btn-tags {
