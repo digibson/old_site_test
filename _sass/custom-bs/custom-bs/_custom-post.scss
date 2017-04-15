@@ -3,8 +3,9 @@
 
 // Buttons used to display tags
 .btn-tags {
-  @include button-variant-custom($btn-tags-color-base, $btn-tags-color, $btn-tags-bg, $btn-tags-border);
+  @include button-variant($btn-tags-color, $btn-tags-bg, $btn-tags-border);
 }
+
 
 // Font awesome definition change default color
 .fa-p {
